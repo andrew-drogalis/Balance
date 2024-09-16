@@ -2,32 +2,36 @@
 
 An alternative keyboard layout built with [Oxeylyzer](https://github.com/O-X-E-Y/oxeylyzer).
 
-<img src="https://raw.githubusercontent.com/drogalis/Remix/main/assets/remix-oxeylyzer-layout.png" alt="Remix Alt Keyboard" style="padding-top: 10px;">
-
 ```
 Rambo:
-b d h w f   q j o u ,
+v d h w f   q j o u ,
 s t n c y   x r a e i
-v k m g p   z l ' ; .
+b k m g p   z l ' ; .
 ```
 
 ## Layout Statistics
 
 Here are the statistics from the oxeylyzer keyboard analyzer:
 
-<img src="https://raw.githubusercontent.com/drogalis/Remix/main/assets/remix-oxeylyzer-stats.png" alt="Remix Alt Keyboard Stats" style="padding-top: 10px;">
+<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-oxeylyzer-stats.png" alt="Rambo Alt Keyboard Stats" style="padding-top: 10px;">
 
 - [Oxeylyzer Source](https://github.com/O-X-E-Y/oxeylyzer)
 
+Here are the statistics from the keysolve keyboard analyzer:
+
+<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-keysolve.png" alt="Rambo Alt Keyboard More Stats" style="padding-top: 10px;">
+
+- [Keysolve Source](https://clemenpine.github.io/keysolve-web/)
+
 Here are the statistics from the cyanophage keyboard analyzer:
 
-<img src="https://raw.githubusercontent.com/drogalis/Remix/main/assets/remix-cyanophage.png" alt="Remix Alt Keyboard More Stats" style="padding-top: 10px;">
+<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-cyanophage.png" alt="Rambo Alt Keyboard More Stats" style="padding-top: 10px;">
 
 - [Cyanophage Source](https://cyanophage.github.io/)
 
 Here are the statistics from the colemakmods keyboard analyzer:
 
-<img src="https://raw.githubusercontent.com/drogalis/Remix/main/assets/remix-colmak-mod-stats.png" alt="Remix Alt Keyboard More Stats" style="padding-top: 10px;">
+<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-colmak-mod-stats.png" alt="Rambo Alt Keyboard More Stats" style="padding-top: 10px;">
 
 - [Colmak Mod Source](https://colemakmods.github.io/mod-dh/analyze.html)
 

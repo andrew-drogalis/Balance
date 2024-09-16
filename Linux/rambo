@@ -5,11 +5,11 @@ xkb_symbols "basic" {
 
     name[Group1] = "Remix";
 
-    key <AD01> {[ b, B ]};
+    key <AD01> {[ v, V ]};
     key <AD02> {[ d, D ]};
     key <AD03> {[ h, H ]};
     key <AD04> {[ w, W ]};
-    key <AD05> {[ y, Y ]};
+    key <AD05> {[ f, F ]};
     key <AD06> {[ q, Q ]};
     key <AD07> {[ j, J ]};
     key <AD08> {[ o, O ]};
@@ -19,14 +19,14 @@ xkb_symbols "basic" {
     key <AC02> {[ t, T ]};
     key <AC03> {[ n, N ]};
     key <AC04> {[ c, C ]};
-    key <AC05> {[ f, F ]};
+    key <AC05> {[ y, Y ]};
     key <AC06> {[ x, X ]};
     key <AC07> {[ r, R ]};
     key <AC08> {[ a, A ]};
     key <AC09> {[ e, E ]};
     key <AC10> {[ i, I ]};
     key <AC11> {[ slash, question ]};
-    key <AB01> {[ v, V ]};
+    key <AB01> {[ b, B ]};
     key <AB02> {[ k, K ]};
     key <AB03> {[ m, M ]};
     key <AB04> {[ g, G ]};
