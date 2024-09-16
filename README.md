@@ -1,13 +1,13 @@
-# Remix Layout
+# Rambo Keyboard Layout
 
 An alternative keyboard layout built with [Oxeylyzer](https://github.com/O-X-E-Y/oxeylyzer).
 
 <img src="https://raw.githubusercontent.com/drogalis/Remix/main/assets/remix-oxeylyzer-layout.png" alt="Remix Alt Keyboard" style="padding-top: 10px;">
 
 ```
-Remix Layout:
-b d h w y   q j o u ,
-s t n c f   x r a e i
+Rambo:
+b d h w f   q j o u ,
+s t n c y   x r a e i
 v k m g p   z l ' ; .
 ```
 
@@ -54,11 +54,6 @@ More terminology:
 
 A great deal of inspiration came from these sources:
 
-- [Sturdy Source](https://oxey.dev/sturdy/index.html)
-- [Canary Source](https://github.com/Apsu/Canary)
-- [Gallium Source](https://github.com/GalileoBlues/Gallium)
-- [Recurva Source](https://github.com/GalileoBlues/Recurva)
-- [Graphite Source](https://github.com/rdavison/graphite-layout)
 - [Keyboard Theory Doc Source](https://bit.ly/layout-doc-v2)
 - [Keyboards Alt Layout Source](https://getreuer.info/posts/keyboards/alt-layouts/stats.html)
 - [Oxeylyzer Source](https://github.com/O-X-E-Y/oxeylyzer)
