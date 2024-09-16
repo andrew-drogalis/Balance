@@ -31,7 +31,7 @@ Here are the statistics from the cyanophage keyboard analyzer:
 
 Here are the statistics from the colemakmods keyboard analyzer:
 
-<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-colmak-mod-stats.png" alt="Rambo Alt Keyboard More Stats" style="padding-top: 10px;">
+<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-colmak-mod-stats.png" alt="Rambo Alt Keyboard More Stats" style="padding-top: 10px; padding-left: 20px">
 
 - [Colmak Mod Source](https://colemakmods.github.io/mod-dh/analyze.html)
 
