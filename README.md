@@ -4,9 +4,10 @@ An alternative keyboard layout built with [Oxeylyzer](https://github.com/O-X-E-Y
 
 ```
 Rambo:
-v d h w f   q j o u ,
-s t n c y   x r a e i
-b k m g p   z l ' ; .
+1 2 3 4 5   6 7 8 9 0 - =
+v d h w f   q j o u , [ ] \
+s t n c y   x r a e i .
+b k m g p   z l ' ; /
 ```
 
 ## Layout Statistics
@@ -31,13 +32,13 @@ Here are the statistics from the cyanophage keyboard analyzer:
 
 Here are the statistics from the colemakmods keyboard analyzer:
 
-<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-colmak-mod-stats.png" alt="Rambo Alt Keyboard More Stats" style="padding-top: 10px; padding-left: 20px">
+<img src="https://raw.githubusercontent.com/drogalis/Rambo/main/assets/rambo-colmak-mod-stats.png" alt="Rambo Alt Keyboard More Stats" style="padding-top: 10px; padding-right: 100px">
 
 - [Colmak Mod Source](https://colemakmods.github.io/mod-dh/analyze.html)
 
 ## Terminology
 
-A non-exhaustive list of keyboard layout terminology:
+A list of common keyboard layout terminology:
 
 - Bigram: A sequence of two keys (not containing space)
 - Trigram: A sequence of three keys (not containing space)
