@@ -3,7 +3,7 @@
 An alternative keyboard layout built with [Oxeylyzer](https://github.com/O-X-E-Y/oxeylyzer).
 
 ```
-Rambo:
+Rambo
 1 2 3 4 5   6 7 8 9 0 - =
 v d h w f   q j o u , [ ] \
 s t n c y   x r a e i .
